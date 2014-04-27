@@ -21,14 +21,14 @@ Developers
 
 #### Features Summary:
 > - Team can challenge by gathering beacon with quiz game
-> -.Ability to play game with family/friends both indoors and outdoors
+> - Ability to play game with family/friends both indoors and outdoors
 
 ----------------
 
 
->   Version 0.1.0 Alpha
->   Updated on 27 Apr 2014
->   Content rating: Everyone
+> - Version 0.1.0 Alpha
+> - Updated on 27 Apr 2014
+> - Content rating: Everyone
 
 
 
