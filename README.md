@@ -1,4 +1,5 @@
-WEEK-END BEACON ![](img/logo.png?raw=true)
+![](img/logo.png?raw=true)
+WEEK-END BEACON
 ===============
 
 Search **treasure beacon with quiz game** from each team to compete both indoors/outdoors.
